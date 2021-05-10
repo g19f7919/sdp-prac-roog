@@ -1,5 +1,6 @@
 ﻿using System;
 
+//A hello world starter program.
 namespace Roog
 {
     class Program
